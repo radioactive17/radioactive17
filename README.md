@@ -1,9 +1,10 @@
 <h1 align="center"><b>Hi , I'm Jignesh Nagda </b></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist,;Graduate+Student+at+IUB,;Sports+Fanatic,;Inqusitive+Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist,;Graduate+Student+at+IUB,;Sports+Fanatic,;Inquisitive+Learner"></a>
 </p>
 
+<!-- Contact Me -->
 <details>
   <summary>☎️ Contact Me</summary>
 <div>
@@ -29,5 +30,23 @@
       <br>
     </p>
   </samp>
+</div>
+</details>
+
+<!-- Summary -->
+<details>
+  <summary>🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About this Account</h2>
+ <p align="center">
+  <a href="github.com/radioactive17" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=radioactive17&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://github.com/radioactive17"><img align="center" 
+     src="#" height="25"
+     alt="website" /></a>
+  </p>
+ </samp>
 </div>
 </details>
