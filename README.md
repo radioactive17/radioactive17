@@ -44,7 +44,7 @@
      src="https://komarev.com/ghpvc/?username=radioactive17&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://github.com/radioactive17"><img align="center" 
-     src="#" height="25"
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fradioactive17.github.io%2Fradioactive17%2F" height="25"
      alt="website" /></a>
   </p>
  </samp>
