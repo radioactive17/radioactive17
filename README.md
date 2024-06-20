@@ -1,10 +1,10 @@
+<!--
 <h1 align="center"><b>Hi , I'm Jignesh Nagda </b></h1>
-<!--  -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist,;Graduate+Student+at+IUB,;Sports+Fanatic,;Inquisitive+Learner"></a>
 </p>
 
-<!-- Contact Me -->
 <details>
   <summary>☎️ Contact Me</summary>
 <div>
@@ -33,7 +33,7 @@
 </div>
 </details>
 
-<!-- Summary -->
+
 <details>
   <summary>🧮 about</summary>
 <div>
@@ -51,7 +51,7 @@
 </div>
 </details>
 
-<!-- GitHub Stats -->
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
@@ -88,7 +88,6 @@
 </details>
 
 
-<!-- Latest Activity -->
 <details>
   <summary>📈 Latest Activity Graph</summary>
   <samp>
@@ -99,3 +98,102 @@
 <br/>
   </samp>
   </details>
+  -->
+
+  # 💻 Rishabh Gupta
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+
+## 👨‍🎓 Education
+- **Master of Science in Computer Science**  
+  Indiana University Bloomington  
+  GPA: 3.8/4.0
+
+- **Bachelor of Technology in Information Technology**  
+  University of Mumbai  
+  GPA: 3.6/4.0
+
+## 💼 Experience
+- **Research Data Analyst**  
+  School of Public Health  
+  _Dates: Present_
+
+- **Data Analyst**  
+  Laundriz Development India Pvt Ltd  
+  _Dates: [Start Date] - [End Date]_
+
+- **Data Analyst Intern**  
+  TicketOnGo  
+  _Dates: [Start Date] - [End Date]_
+
+- **Software Engineer Intern**  
+  KJ Somaiya College of Engineering  
+  _Dates: [Start Date] - [End Date]_
+
+## 🚀 Projects
+I have worked on numerous projects, all of which are available on my [GitHub](https://github.com/your-username?tab=repositories).
+
+## 🛠 Skills
+
+### Programming Languages & Databases
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Analysis & Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0769AD?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-8FCCEE?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Machine Learning & AI
+![Regression](https://img.shields.io/badge/Regression-0078D4?style=for-the-badge&logo=ai&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-0078D4?style=for-the-badge&logo=ai&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-0078D4?style=for-the-badge&logo=ai&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-0078D4?style=for-the-badge&logo=ai&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-0078D4?style=for-the-badge&logo=ai&logoColor=white)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Developer Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📊 GitHub Stats
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 📫 Contact Me
+Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+
+---
+
+### ⚡ Fun Facts
+- I love exploring the intersections of data science and public health.
+- In my free time, I enjoy contributing to open-source projects and expanding my knowledge in AI and machine learning.
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
+
+  
