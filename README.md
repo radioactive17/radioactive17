@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="center"><b>Hi , I'm Jignesh Nagda </b></h1>
 
 <p align="center">
@@ -98,40 +98,6 @@
 <br/>
   </samp>
   </details>
-  -->
-
-  # 💻 Rishabh Gupta
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
-## 👨‍🎓 Education
-- **Master of Science in Computer Science**  
-  Indiana University Bloomington  
-  GPA: 3.8/4.0
-
-- **Bachelor of Technology in Information Technology**  
-  University of Mumbai  
-  GPA: 3.6/4.0
-
-## 💼 Experience
-- **Research Data Analyst**  
-  School of Public Health  
-  _Dates: Present_
-
-- **Data Analyst**  
-  Laundriz Development India Pvt Ltd  
-  _Dates: [Start Date] - [End Date]_
-
-- **Data Analyst Intern**  
-  TicketOnGo  
-  _Dates: [Start Date] - [End Date]_
-
-- **Software Engineer Intern**  
-  KJ Somaiya College of Engineering  
-  _Dates: [Start Date] - [End Date]_
-
-## 🚀 Projects
-I have worked on numerous projects, all of which are available on my [GitHub](https://github.com/your-username?tab=repositories).
 
 ## 🛠 Skills
 
@@ -179,20 +145,7 @@ I have worked on numerous projects, all of which are available on my [GitHub](ht
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Stats
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-## 📫 Contact Me
-Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
-
----
-
-### ⚡ Fun Facts
-- I love exploring the intersections of data science and public health.
-- In my free time, I enjoy contributing to open-source projects and expanding my knowledge in AI and machine learning.
-
----
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
 
