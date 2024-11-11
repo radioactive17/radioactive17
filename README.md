@@ -119,7 +119,7 @@ Thank you for visitng my profile. Let me introduce my profile in a few lines.
     <li>👨‍🔧 Seeking new opportunities as a Data Scientist, Data Analyst, Data Engineer, or Software Engineer</li>
     <li>📍 Located in the United States</li>
     <li>🏢 Currently working at TFI as a Business Intelligence Developer</li>
-    <li>🌱 Currently learning AWS and working towards obtaining a Tableau Certification</li>
+    <li>🌱 Currently learning Azure and working towards obtaining a Data Analyst Certification</li>
     <li>💬 Feel free to ask me about anything. Either I’ll know the answer, or I’ll find out.</li>
     <li>📮 You can contact me directly here : <b>jigsshah.97@gmail.com or +1 812-778-5895</b>
   </ul>
